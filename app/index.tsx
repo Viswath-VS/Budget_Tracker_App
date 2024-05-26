@@ -39,7 +39,7 @@ export default function Index() {
             </Text>
             <CustomButton
               title="Continue with Email"
-              handlePress={() => router.push("Signup")}
+              handlePress={() => router.push("Signin")}
               containerStyles="w-full mt-7"
             />
           </View>
